@@ -30,6 +30,7 @@ Clone the repository and install the required packages
 
 ## Project Structure
 `finetunning_llama3_for_rag_equivalent_tasks_.ipynb`: A Jupyter notebook demonstrating the fine-tuning of LLaMA3 for RAG-based tasks.
+
 `requirements.txt`: File listing all the dependencies for the project.
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or suggestions.
